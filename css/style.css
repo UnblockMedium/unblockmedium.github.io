@@ -1279,6 +1279,15 @@ h2,
 .h2 {
   font-size: 30px;
 }
+h2 > a,
+.h2 > a {
+  border-bottom: 0;
+}
+h2 > a:hover,
+.h2 > a:hover {
+  color: #32A1FD;	
+  border-bottom: 0;
+}
 h3,
 .h3 {
   font-size: 28px;
