@@ -1,0 +1,21 @@
+# Custom Jekyll Setting
+title: UnblockMedium
+tagline: 'A Daily Report'
+description: 'A Daily Report on Medium Malaysia Censorship'
+email: unblockmedium@gmail.com
+baseurl: ""
+url: "http://unblockmedium.github.io/"
+
+paginate: 1
+markdown: redcarpet
+highlighter: pygments
+
+# Permalinks
+permalink: pretty
+relative_permalinks: true
+
+author:
+  name: 'UnblockMedium'
+  url: https://twitter.com/hashtag/UnblockMedium
+  
+version: 1.0.0
