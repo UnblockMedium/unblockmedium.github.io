@@ -3552,7 +3552,7 @@ tbody.collapse.in {
   text-align: left;
   list-style: none;
   background-color: #fff;
-  border: 1px solid #32A1FD;
+  border: 1px solid #eee;
   border-radius: 2px;
 }
 .dropdown-menu.pull-right {
@@ -3571,7 +3571,7 @@ tbody.collapse.in {
   clear: both;
   font-weight: normal;
   line-height: 1.42857143;
-  color: #32A1FD;
+  color: #58595B;
   white-space: nowrap;
   border-bottom: none;
 }
@@ -4565,7 +4565,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  color: #eee;
+  color: #58595B;
   background-color: transparent;
 }
 @media (max-width: 767px) {
