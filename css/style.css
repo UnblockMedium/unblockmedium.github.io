@@ -4511,7 +4511,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default {
   background-color: #fafafa;
-  padding: 12px;
+  padding: 12px 0;
 }
 .navbar-default .navbar-brand {
   color: #58595B;
