@@ -4510,8 +4510,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: transparent;
-  border-bottom: 1px solid #eee;
+  background-color: #fafafa;
   padding: 12px;
 }
 .navbar-default .navbar-brand {
@@ -4553,7 +4552,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #fafafa;
+  background-color: #fff;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #888;
