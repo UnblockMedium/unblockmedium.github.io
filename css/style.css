@@ -5002,8 +5002,8 @@ a.badge:focus {
 .um-footer {
   padding-top: 30px;
   margin-bottom: 30px;
-  color: inherit;
-  background-color: transparent;
+  color: #58595B;
+  background-color: #fafafa;
 }
 
 .jumbotron {
