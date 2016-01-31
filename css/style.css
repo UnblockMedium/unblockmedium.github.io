@@ -4565,7 +4565,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  color: #58595B;
+  color: #eee;
   background-color: transparent;
 }
 @media (max-width: 767px) {
