@@ -4,6 +4,15 @@ title: About
 permalink: /about/
 ---
 
+
+### About Unblock Medium
+
+The Malaysian Government, Malaysian Communications And Multimedia Commission (MCMC) blocked the blog-publishing platform <a href="https://medium.com/about/about-medium-9eac453da935" target="_blank">Medium</a>
+
+We decided to make a short, simplified 'reporting' (of some kind) on this issue. We are in no way part of Medium. We are against any type of Internet Censorship.
+
+- - - 
+
 ### Purpose
 
 For reporting purposes. We have no malicious or crude intend really. We report what we visually see and physically read on the Internet and provide a link back to the actual source and provide credit to the individual (giving credit where credit is due). 
@@ -23,6 +32,12 @@ We are on Twitter <a href="//twitter.com/UnblockMedium" target="_blank">@Unblock
 UnblockMedium.com cannot and will not take responsibility on any comments made by any individuals on any social media platforms.
 
 - - - 
+
+### Hashtag
+
+Show us your support by 'tweeting' with an <a href="https://twitter.com/search?src=typd&q=%23UnblockMedium" target="_blank">#UnblockMedium</a> hashtag on your tweet.
+
+- - -
 
 ### Legal
 In the official Electronic mail sent by MCMC to Medium, it did state "Section 233 of Communications and Multimedia Act 1998".
