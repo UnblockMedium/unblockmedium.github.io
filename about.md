@@ -1,19 +1,60 @@
 ---
 layout: page
-title: DNS List
-permalink: /dns/
+title: About 
+permalink: /about/
 ---
 
-### Google Public DNS (IPv4 & IPv6)
+### Purpose
 
-Preferred DNS server & Alternate DNS server (IPv4)
+For reporting purposes. We have no malicious or crude intend really. We report what we visually see and physically read on the Internet and provide a link back to the actual source and provide credit to the individual (giving credit where credit is due). 
 
-- 8.8.8.8
-- 8.8.4.4
+We speak on behalf of all Netizens (Internet Citizens), we would like the Malaysian Government, Malaysian Communications And Multimedia Commission (MCMC) specifically to unblock Medium.com as soon as possible &mdash; they should not be censoring the Internet in such a manner; what more a blog-publishing platform such as Medium.com site-wide &mdash; which is used by many startups, computer geeks, politicians (why including POTUS Barack Obama) and even Whistleblowers (whoops!).
 
-Preferred DNS server & Alternate DNS server (IPv6)
+Medium.com has a ton of productive articles of various topics written by diverse writers and professional journalists.
 
-- 2001:4860:4860::8888
-- 2001:4860:4860::8844
+Putting a barrier on Information or Knowledge is never a wise move. Bluntly said.
+
+- - - 
+
+### Social Media
+
+We are on Twitter <a href="//twitter.com/UnblockMedium" target="_blank">@UnblockMedium</a> and the <a href="https://www.facebook.com/UnblockMedium/" target="_blank">Unblock Medium</a> Community on Facebook &mdash; moderated by eager Malaysian citizens who want to do a little something to get Medium.com unblocked. Godspeed.
+
+UnblockMedium.com cannot and will not take responsibility on any comments made by any individuals on any social media platforms.
+
+- - - 
+
+### Legal
+In the official Electronic mail sent by MCMC to Medium, it did state "Section 233 of Communications and Multimedia Act 1998".
+
+For the convenience of all our readers, we embeded the link to Section 233 (Improper use of network facilities or network service, etc), which can be accessed via the Official Malaysian Communications And Multimedia Commission (MCMC) website.
+
+<a href="http://www.skmm.gov.my/skmmgovmy/media/General/pdf/Act588bi_1.pdf" target="_blank" class="btn btn-primary btn-lg pull-center">Download PDF</a>	
+<a href="http://www.skmm.gov.my/commons/viewdetail.aspx?docid=560&csrt=16142382241485565584" target="_blank" class="btn btn-default btn-lg pull-center">Read Section 233</a>
+
+- - - 
+					
+### Logo
+
+We adhear to the 'Logos &amp; Brand Guidelines' by Medium. We are utilizing a dark theme 200x200 Portable Network Graphics (PNG) brand logo on the header of this site.
+
+<a href="https://medium.com/policy/logos-and-brand-guidelines-f1a01a733592#.pb6tj77r0" target="_blank" class="btn btn-primary btn-lg pull-center">Read Policy</a>
+<a href="https://github.com/Medium/medium-logos" target="_blank" class="btn btn-default btn-lg pull-center">GitHub Repository</a>
+
+- - -
+					
+### License
+
+This website is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode" target="_blank" class="btn btn-primary btn-lg pull-center">Read Legalcode</a>
+
+- - -
+				
+### Open Source
+
+We utilize <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> written in Ruby Programming Language and hosting it on <a href="https://pages.github.com/" target="_blank">Github Pages</a>.
+
+<a href="https://github.com/UnblockMedium" target="_blank" class="btn btn-primary btn-lg pull-center">GitHub Repository</a>
 
 - - -

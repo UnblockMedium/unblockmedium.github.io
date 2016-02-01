@@ -18,6 +18,8 @@ permalink: pretty
 navigation:
  - title: Home
    url: /
+ - title: About
+   url: /about/ 
  - title: DNS List
    url: /dns/
 
