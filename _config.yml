@@ -20,7 +20,11 @@ navigation:
    url: /
  - title: DNS List
    url: /dns/
-   
+
+#Precious Gems
+gems:
+  - jekyll-sitemap
+  
 author:
   name: 'UnblockMedium'
   url: https://twitter.com/hashtag/UnblockMedium
