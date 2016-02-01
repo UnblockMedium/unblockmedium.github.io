@@ -4997,6 +4997,11 @@ a.badge:focus {
 ::-webkit-scrollbar-corner {
   background-color:#e6e6e6;
 }
+.um-scroll-menu {
+  height: auto;
+  max-height: 400px;
+  overflow-x: hidden;
+}
 /* Scrollbar */
 
 .um-footer {
