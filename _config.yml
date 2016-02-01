@@ -4,7 +4,8 @@ tagline: 'A Daily Report'
 description: 'A Daily Report on Medium Malaysia Censorship'
 email: unblockmedium@gmail.com
 baseurl: ""
-url: "http://unblockmedium.github.io/"
+url: 'https://unblockmedium.com'
+enforce_ssl: 'unblockmedium.com'
 
 paginate: 1
 markdown: redcarpet
