@@ -20,8 +20,8 @@ navigation:
    url: /
  - title: About
    url: /about/ 
- - title: DNS List
-   url: /dns/
+ - title: Twitter
+   url: https://twitter.com/UnblockMedium
 
 #Precious Gems
 gems:
