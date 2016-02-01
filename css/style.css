@@ -5005,10 +5005,16 @@ a.badge:focus {
 /* Scrollbar */
 
 .um-footer {
-  padding-top: 30px;
-  margin-bottom: 30px;
-  color: #58595B;
+  padding-bottom: 10px;
+  padding-top: 35px;
+  color: #58595b;
   background-color: #fafafa;
+  border-radius: 0;
+}
+.um-footer p {
+  font-size: 15px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
 }
 
 .jumbotron {
