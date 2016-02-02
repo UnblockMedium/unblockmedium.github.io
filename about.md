@@ -58,7 +58,7 @@ If one is being curious. This site is build using Bootstrap front-end framework.
 					
 ### Logo
 
-We adhear to the 'Logos &amp; Brand Guidelines' by Medium. We are utilizing a dark theme 200x200 &amp; a 64x64 resized version of Portable Network Graphics (PNG) brand logo on the header and favicon for this site.
+We adhear to the 'Logos &amp; Brand Guidelines' by Medium. We are utilizing a dark theme 200x200 and 64x64 resized version of Portable Network Graphics (PNG) brand logo on the header and favicon for this site.
 
 <a href="https://medium.com/policy/logos-and-brand-guidelines-f1a01a733592#.pb6tj77r0" target="_blank" class="btn btn-primary btn-lg pull-center">Read Policy</a>
 <a href="https://github.com/Medium/medium-logos" target="_blank" class="btn btn-default btn-lg pull-center">GitHub Repository</a>
