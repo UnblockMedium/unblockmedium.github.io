@@ -8,7 +8,7 @@ url: 'https://unblockmedium.com'
 enforce_ssl: 'unblockmedium.com'
 
 paginate: 1
-markdown: redcarpet
+markdown: Kramdown
 highlighter: pygments
 
 # Permalinks
