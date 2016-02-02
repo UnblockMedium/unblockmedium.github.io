@@ -7,7 +7,7 @@ baseurl: ""
 url: 'https://unblockmedium.com'
 enforce_ssl: 'unblockmedium.com'
 
-paginate: 1
+paginate: 15
 markdown: Kramdown
 highlighter: rouge
 
