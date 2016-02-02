@@ -4,7 +4,9 @@ title: Worth the Read
 permalink: /read/
 ---
 
-### A little learning is a dangerous thing 
+### Worth the Read
+
+"A little learning is a dangerous thing" &mdash; Poem by Alexander Pope (1688 - 1744) 
 
 - <a href="https://medium.com/medium-legal/the-post-stays-up-d222e34cb7e7" target="_blank">The Post Stays Up</a> written by Medium Legal team
 - <a href="http://www.themalaysianinsider.com/malaysia/article/mcmc-acts-against-errant-social-media-users" target="_blank">MCMC acts against errant social media users</a> via The Malaysian Insider
