@@ -7,9 +7,11 @@ permalink: /about/
 
 ### TL;DR
 
-The Malaysian Government, Malaysian Communications And Multimedia Commission (MCMC) blocked the blog-publishing platform <a href="https://medium.com/about/about-medium-9eac453da935" target="_blank">Medium</a> solely because of this one article/report in regards to the Malaysian Prime Minister Najib Razak published by a UK-based Whistleblower Sarawak Report founded by Clare Rewcastle Brown. 
+The Malaysian Government, Malaysian Communications And Multimedia Commission (MCMC) blocked the blog-publishing platform <a href="https://medium.com/about/about-medium-9eac453da935" target="_blank">Medium</a> solely because of an article which is in regards to the Malaysian Prime Minister Najib Razak &mdash; published by a London-based Whistleblower Clare Rewcastle Brown who started <a href="https://en.wikipedia.org/wiki/Sarawak_Report" target="_blank">Sarawak Report</a> in early 2010.
 
-Malaysian Communications And Multimedia Commission (MCMC) contacted Medium.com for a take-down request on that very article, which was cross-posted on Sarawak Report's Medium blog, since their website SarawakReport.org was already blocked in Malaysia since last year (2015). The Medium Legal team responded with <a href="https://medium.com/medium-legal/the-post-stays-up-d222e34cb7e7" target="_blank">The Post Stays Up</a>
+Malaysian Communications And Multimedia Commission (MCMC) contacted Medium.com for a take-down request on that very article posted by Sarawak Report on their Medium blog, which was cross-posted from their official website SarawakReport.org &mdash; as it has been blocked since 2015 by MCMC. Sarawak Report utilizes Medium.com as a means of reaching their readers without the hassle of bypassing the block. They have even developed an iOS &amp; Android application so that their readers will be able to by-pass the block without switching DNS providers or either setting-up a Virtual Private Network (VPN).
+
+A few days later, The Medium Legal team responded with <a href="https://medium.com/medium-legal/the-post-stays-up-d222e34cb7e7" target="_blank">The Post Stays Up</a>
 
 > We stand by investigative journalists who publish on Medium. Until we receive an order from a court of competent jurisdiction, the post stays up. &mdash; Medium Legal
 
