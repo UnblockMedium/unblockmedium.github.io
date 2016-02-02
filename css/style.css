@@ -6867,4 +6867,6 @@ img.zoom-img {
 .zoom-overlay-transitioning {
   cursor: default;
 }
- 
+/* Override default selection */
+::selection{color:#696969;background:#effff6;}
+::-moz-selection{color:#696969;background:#effff6;} 

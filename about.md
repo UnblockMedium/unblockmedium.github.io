@@ -45,13 +45,13 @@ UnblockMedium.com cannot and will not take responsibility on any comments made b
 
 ### Hashtag
 
-Show the World your support by adding a <a href="https://twitter.com/search?src=typd&q=%23UnblockMedium" target="_blank">#UnblockMedium</a> hashtag on your Twitter &amp; Facebook posts.
+Show the World your support by adding a <a href="https://twitter.com/search?src=typd&q=%23UnblockMedium" target="_blank">#UnblockMedium</a> hashtag on your Twitter &amp; Facebook posts. Call it Hashtag activism.
 
 - - -
 
 ### Design
 
-If one is being curious. This site is build using Bootstrap front-end framework. We utilize #68bf92, #effff6, #696969 &amp; #fafafa hex colors on this site. As for the Fonts, Open Sans, sans-serif typeface all-the-way.
+If one is being curious. This site is build using Bootstrap front-end framework. We utilize #68bf92, #effff6, #696969 &amp; #fafafa hex colors on this site. As for the Font, it is certainly Open Sans, sans-serif typeface all-the-way.
 
 
 - - -
