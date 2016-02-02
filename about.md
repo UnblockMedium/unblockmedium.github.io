@@ -46,16 +46,6 @@ UnblockMedium.com cannot and will not take responsibility on any comments made b
 Show us your support by 'tweeting' with an <a href="https://twitter.com/search?src=typd&q=%23UnblockMedium" target="_blank">#UnblockMedium</a> hashtag on your tweet.
 
 - - -
-
-### Legal
-In the official Electronic mail sent by MCMC to Medium, it did state "Section 233 of Communications and Multimedia Act 1998".
-
-For the convenience of all our readers, we embeded the link to Section 233 (Improper use of network facilities or network service, etc), which can be accessed via the Official Malaysian Communications And Multimedia Commission (MCMC) website.
-
-<a href="http://www.skmm.gov.my/skmmgovmy/media/General/pdf/Act588bi_1.pdf" target="_blank" class="btn btn-primary btn-lg pull-center">Download PDF</a>	
-<a href="http://www.skmm.gov.my/commons/viewdetail.aspx?docid=560&csrt=16142382241485565584" target="_blank" class="btn btn-default btn-lg pull-center">Read Section 233</a>
-
-- - - 
 					
 ### Logo
 
