@@ -9,7 +9,7 @@ permalink: /about/
 
 The Malaysian Government, Malaysian Communications And Multimedia Commission (MCMC) blocked the blog-publishing platform <a href="https://medium.com/about/about-medium-9eac453da935" target="_blank">Medium</a> solely because of this one article/report in regards to the Malaysian Prime Minister Najib Razak published by a UK-based Whistleblower Sarawak Report founded by Clare Rewcastle Brown. 
 
-Malaysian Communications And Multimedia Commission (MCMC) contacted Medium.com for a take-down request on that very article, which was cross-posted on Medium since their website SarawakReport.org was already blocked in Malaysia since last year (2015). The Medium Legal team responded with <a href="https://medium.com/medium-legal/the-post-stays-up-d222e34cb7e7" target="_blank">The Post Stays Up</a>
+Malaysian Communications And Multimedia Commission (MCMC) contacted Medium.com for a take-down request on that very article, which was cross-posted on Sarawak Report's Medium blog, since their website SarawakReport.org was already blocked in Malaysia since last year (2015). The Medium Legal team responded with <a href="https://medium.com/medium-legal/the-post-stays-up-d222e34cb7e7" target="_blank">The Post Stays Up</a>
 
 > We stand by investigative journalists who publish on Medium. Until we receive an order from a court of competent jurisdiction, the post stays up. &mdash; Medium Legal
 
