@@ -6820,7 +6820,7 @@ li {
 }
 .img-border{border: 1px solid #ddd;padding:35px;margin:15px 0;border-radius:4px;}
 .img-border:hover{border-color:#ccc;}
-#scrollUp{bottom:20px;right:15px;background-color:#fff;color:#32A1FD;font-size:14px;letter-spacing:1px;font-family:sans-serif;text-decoration:none;opacity:.9;padding:0 15px;-webkit-border-radius:16px;-moz-border-radius:16px;border-radius:2px;border:1px solid #32A1FD;-webkit-transition:background .2s linear;-moz-transition:background .2s linear;-o-transition:background .2s linear;transition:background .2s linear;-webkit-backface-visibility:hidden}#scrollUp:hover{color:#fff;background-color:#32A1FD}#scrollUp a{border-bottom:0}
+#scrollUp{bottom:20px;right:25px;background-color:#fff;color:#32A1FD;font-size:14px;letter-spacing:1px;font-family:sans-serif;text-decoration:none;opacity:.9;padding:0 15px;-webkit-border-radius:16px;-moz-border-radius:16px;border-radius:2px;border:1px solid #32A1FD;-webkit-transition:background .2s linear;-moz-transition:background .2s linear;-o-transition:background .2s linear;transition:background .2s linear;-webkit-backface-visibility:hidden}#scrollUp:hover{color:#fff;background-color:#32A1FD}#scrollUp a{border-bottom:0}
  
 .dropdown-menu > li {
     display: list-item;
