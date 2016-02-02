@@ -23,6 +23,8 @@ permalink: /read/
 - About the <a href="https://en.wikipedia.org/wiki/National_Broadband_Initiative_(Malaysia)" target="_blank">Malaysia's National Broadband Initiative</a> via Wikipedia
 - <a href="https://vulcanpost.com/54301/malaysia-1400-websites-blocked/" target="_blank">Malaysia Suffers Social Media Abuse, Responds By Blocking Over 1,400 Sites</a> via VulcanPost.com
 - <a href="http://www.themalaymailonline.com/malaysia/article/mcmc-government-will-not-block-social-media-sites" target="_blank">MCMC: Government will not block</a> via The Malay Mail Online
+- Freedom of information laws by country: <a href="https://en.wikipedia.org/wiki/Freedom_of_information_laws_by_country#Malaysia" target="_blank">Malaysia</a> via Wikipedia 
+- Malaysian Internet activist wrote <a href="https://www.keithrozario.com/2016/01/no-the-prime-minister-doesnt-need-spyware.html" target="_blank">PMO purchases of Hacking Team software</a> on his blog. This is in regards to Malaysia and spyware, yes spyware!
 
-
+- - -
   
