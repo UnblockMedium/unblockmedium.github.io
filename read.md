@@ -7,6 +7,7 @@ permalink: /read/
 ### A little learning is a dangerous thing 
 
 - <a href="https://medium.com/medium-legal/the-post-stays-up-d222e34cb7e7" target="_blank">The Post Stays Up</a> written by Medium Legal team
+- <a href="http://www.themalaysianinsider.com/malaysia/article/mcmc-acts-against-errant-social-media-users" target="_blank">MCMC acts against errant social media users</a> via The Malaysian Insider
 - <a href="https://en.wikipedia.org/wiki/Censorship_in_Malaysia#Internet" target="_blank">Censorship in Malaysia (Internet)</a> via Wikipedia 
 - <a href="https://www.eff.org/deeplinks/2015/07/malaysia-drops-pretense-not-censoring-internet" target="_blank">Malaysia Drops the Pretense of Not Censoring the Internet</a> written by Jeremy Malcolm and Sarah Myers West of Electronic Frontier Foundation (EFF)
 - Project Sinar (Malaysia) posted their findings on 'content filtering' by a local ISP on Google+ titled <a href="https://plus.google.com/+SinarProjectOrg/posts/ak6opfbDxwa" target="_blank">TMNet's filtering of +Malaysiakini video interviews of Bala's widow</a>
