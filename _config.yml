@@ -14,21 +14,25 @@ highlighter: pygments
 # Permalinks
 permalink: pretty
 
-#Navigator 
+# Navigator 
 navigation:
  - title: Home
    url: /
  - title: About
-   url: /about/ 
- - title: Twitter
-   url: https://twitter.com/UnblockMedium
+   url: /about/
+ - title: Worth the Read
+   url: /read/
+   
+# Social
+twitter_handle: UnblockMedium
+facebook_community: UnblockMedium     
 
-#Precious Gems
+# Precious Gems
 gems:
   - jekyll-sitemap
   
 author:
   name: 'UnblockMedium'
-  url: https://twitter.com/hashtag/UnblockMedium
+  url: https://unblockmedium.com
   
 version: 1.0.0
