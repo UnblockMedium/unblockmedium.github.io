@@ -4,7 +4,7 @@ title: Worth the Read
 permalink: /read/
 ---
 
-### Strictly for ones knowledge. 
+### A little learning is a dangerous thing 
 
 - <a href="https://medium.com/medium-legal/the-post-stays-up-d222e34cb7e7" target="_blank">The Post Stays Up</a> written by Medium Legal team
 - <a href="https://en.wikipedia.org/wiki/Censorship_in_Malaysia#Internet" target="_blank">Censorship in Malaysia (Internet)</a> via Wikipedia 
@@ -12,11 +12,11 @@ permalink: /read/
 - Project Sinar (Malaysia) posted their findings on 'content filtering' by a local ISP on Google+ titled <a href="https://plus.google.com/+SinarProjectOrg/posts/ak6opfbDxwa" target="_blank">TMNet's filtering of +Malaysiakini video interviews of Bala's widow</a>
 - Malaysia <a href="https://en.wikipedia.org/wiki/Deep_packet_inspection#Malaysia" target="_blank">Deep Packet Inspection (DPI or IX)</a> via Wikipedia
 - In 2011, Anonymous (the Activist and Hacktivist group) launched attack, "<a href="https://en.wikipedia.org/wiki/Timeline_of_events_associated_with_Anonymous#Operation_Malaysia" target="_blank">Operation Malaysia</a>"
-- BBC covered this in 2011: <a href="http://www.bbc.com/news/world-asia-pacific-13788817" target="_blank">Hackers attack Malaysia government websites</a> via Wikipedia
+- BBC covered this in 2011: <a href="http://www.bbc.com/news/world-asia-pacific-13788817" target="_blank">Hackers attack Malaysia government websites</a>
 - Malaysia's <a href="https://opennet.net/research/profiles/malaysia" target="_blank">OpenNet Initiative Profile</a> 
 - About the <a href="https://en.wikipedia.org/wiki/National_Broadband_Initiative_(Malaysia)" target="_blank">Malaysia's National Broadband Initiative</a> via Wikipedia
-- Malaysia Suffers Social Media Abuse, Responds By Blocking Over 1,400 Sites <a href="https://vulcanpost.com/54301/malaysia-1400-websites-blocked/" target="_blank">Malaysia Suffers Social Media Abuse, Responds By Blocking Over 1,400 Sites</a>
-- <a href="http://www.themalaymailonline.com/malaysia/article/mcmc-government-will-not-block-social-media-sites" target="_blank">MCMC: Government will not block</a> via The Malay Mail Online news portal
+- <a href="https://vulcanpost.com/54301/malaysia-1400-websites-blocked/" target="_blank">Malaysia Suffers Social Media Abuse, Responds By Blocking Over 1,400 Sites</a> via VulcanPost.com
+- <a href="http://www.themalaymailonline.com/malaysia/article/mcmc-government-will-not-block-social-media-sites" target="_blank">MCMC: Government will not block</a> via The Malay Mail Online
 
 
   
