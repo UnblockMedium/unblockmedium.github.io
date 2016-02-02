@@ -1089,7 +1089,7 @@ body {
   font-size: 18px;
   letter-spacing: 0.3px;
   line-height: 35px;
-  color: #58595b; 
+  color: #696969; 
   background-color: #fff;
 }
 .ffs-unblock-medium {
@@ -1104,9 +1104,9 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #58595b;
+  color: #696969;
   text-decoration: none;
-  border-bottom: 1px solid #58595b;
+  border-bottom: 1px solid #696969;
 }
 a:hover  {
   color: #000;
@@ -3570,7 +3570,7 @@ tbody.collapse.in {
   clear: both;
   font-weight: normal;
   line-height: 1.42857143;
-  color: #58595B;
+  color: #696969;
   white-space: nowrap;
   border-bottom: none;
 }
@@ -4513,7 +4513,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   padding: 12px 0;
 }
 .navbar-default .navbar-brand {
-  color: #58595B;
+  color: #696969;
   border-bottom: 0;
 }
 .navbar-default .navbar-brand:hover,
@@ -4526,7 +4526,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a {
   font-size: 14px;	
-  color: #58595B;
+  color: #696969;
   border-bottom: 0;
 }
 .navbar-default .navbar-nav > li > a:hover,
@@ -4563,7 +4563,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  color: #58595B;
+  color: #696969;
   background-color: transparent;
 }
 @media (max-width: 767px) {
@@ -5006,7 +5006,7 @@ a.badge:focus {
 .um-footer {
   padding-bottom: 10px;
   padding-top: 35px;
-  color: #58595b;
+  color: #696969;
   background-color: #fafafa;
   border-radius: 0;
 }
