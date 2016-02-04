@@ -59,5 +59,13 @@ permalink: /read/
 
 - Keith Rozario, an local Activist wrote about this on his blog, titled <a href="https://www.keithrozario.com/2013/05/dap-blocked-sites-tm-bluecoat-packetshaper-arbor-network.html" target="_blank">DAP lodges report with MCMC over blocked sites</a>
 
+- When evidence was presented, MCMC denied. Digital News Asia did covered this <a href="https://www.digitalnewsasia.com/digital-economy/ge13-evidence-of-websites-political-content-being-throttled" target="_blank">GE13: Evidence of websites, political content being throttled</a> 
+
+- Malaysian transparency NGO <a href="http://sinarproject.org/en" target="_blank">Sinar Project</a> did numerous investigation on the blocking and throttling access. They posted their <a href="https://plus.google.com/+SinarProjectOrg/posts/ak6opfbDxwa" target="_blank">report</a> and even released a tool on their <a href="https://github.com/Sinar/censortests" target="_blank">GitHub repo</a>
+
+- MCMC denied the claim, <a href="https://www.digitalnewsasia.com/sites/default/files/files_upload/140116%20MCMC%20Statement.pdf" target="_blank">Press Release</a>
+
+- Digital News Asia covered this on <a href="https://www.digitalnewsasia.com/insights/the-kangkung-block-denial-seems-to-be-the-best-defence" target="_blank">The kangkung block: Denial seems to be the best defence</a>
+
 
 - - -
