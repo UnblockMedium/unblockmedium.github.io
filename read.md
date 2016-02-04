@@ -38,7 +38,7 @@ permalink: /read/
 
 - The Guardian published <a href="http://www.theguardian.com/world/2015/jul/20/sarawak-report-whistleblowing-website-blocked-by-malaysia-over-pm-allegations" target="_blank">Sarawak Report whistleblowing website blocked by Malaysia after PM allegations</a> 
 
-> The Malaysian Communications and Multimedia Commission, the country’s internet regulator, confirmed late on Sunday it had blocked Sarawak Report for reporting on what it called “unverified content”. 
+> The Malaysian Communications and Multimedia Commission, the country's internet regulator, confirmed late on Sunday it had blocked Sarawak Report for reporting on what it called “unverified content”. 
 
 “Such content could create unrest and threatens national stability, public order and economic stability,” the commission said in a statement.
 
