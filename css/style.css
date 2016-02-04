@@ -5003,6 +5003,7 @@ a.badge:focus {
 }
 /* Scrollbar */
 
+/* Footer */
 .um-footer {
   padding-bottom: 10px;
   padding-top: 35px;
@@ -5015,6 +5016,12 @@ a.badge:focus {
   letter-spacing: 1px;
   text-transform: uppercase;
 }
+.um-msg-box{min-height: 20px;padding: 19px;margin-bottom: 20px;background-color: #fff;border-radius: 2px;}
+.um-pad{margin:25px 0;}
+.btn-tw{color:#fff;background-color:#55acee;}
+.btn-tw:hover{color:#fff;background-color:#55acee;}
+.btn-fb{color:#fff;background-color:#3b5998;}
+.btn-fb:hover{color:#fff;background-color:#3b5998;}
 
 .jumbotron {
   padding-top: 30px;
