@@ -3023,7 +3023,7 @@ select[multiple].input-lg {
 }
 .btn {
   display: inline-block;
-  padding: 6px 12px;
+  padding: 12px 12px;
   margin-bottom: 0;
   font-size: 14px;
   font-weight: normal;
@@ -3039,8 +3039,7 @@ select[multiple].input-lg {
       -ms-user-select: none;
           user-select: none;
   background-image: none;
-  border: 1px solid transparent;
-  border-radius: 4px;
+  border-radius: 2px;
 }
 .btn:focus,
 .btn:active:focus,
@@ -3055,7 +3054,7 @@ select[multiple].input-lg {
 .btn:hover,
 .btn:focus,
 .btn.focus {
-  color: #333;
+  color: #fff;
   text-decoration: none;
 }
 .btn:active,
@@ -5012,12 +5011,12 @@ a.badge:focus {
   border-radius: 0;
 }
 .um-footer p {
-  font-size: 15px;
+  font-size: 13px;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
 .um-msg-box{min-height: 20px;padding: 19px;margin-bottom: 20px;background-color: #fff;border-radius: 2px;}
-.um-pad{margin:25px 0;}
+.um-pad{margin:15px 0;}
 .btn-tw{color:#fff;background-color:#55acee;}
 .btn-tw:hover{color:#fff;background-color:#55acee;}
 .btn-fb{color:#fff;background-color:#3b5998;}
