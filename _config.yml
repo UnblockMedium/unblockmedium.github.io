@@ -10,6 +10,7 @@ enforce_ssl: 'unblockmedium.com'
 paginate: 15
 markdown: Kramdown
 highlighter: rouge
+encoding: UTF-8
 
 # Permalinks
 permalink: pretty
