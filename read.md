@@ -8,7 +8,9 @@ permalink: /read/
 
 "A little learning is a dangerous thing" &mdash; Poem by Alexander Pope (1688 - 1744) 
 
+
 - - -
+
 
 - <a href="https://medium.com/medium-legal/the-post-stays-up-d222e34cb7e7" target="_blank">The Post Stays Up</a> written by Medium Legal team
 - <a href="http://www.themalaysianinsider.com/malaysia/article/mcmc-acts-against-errant-social-media-users" target="_blank">MCMC acts against errant social media users</a> via The Malaysian Insider
@@ -26,7 +28,9 @@ permalink: /read/
 - Freedom of information laws by country: <a href="https://en.wikipedia.org/wiki/Freedom_of_information_laws_by_country#Malaysia" target="_blank">Malaysia</a> via Wikipedia 
 - Malaysian Internet activist wrote <a href="https://www.keithrozario.com/2016/01/no-the-prime-minister-doesnt-need-spyware.html" target="_blank">PMO purchases of Hacking Team software</a> on his blog. This is in regards to Malaysia and spyware, yes spyware!
 
+
 - - -
+
 
 ### 2011  
 
@@ -38,11 +42,13 @@ permalink: /read/
 
 - The Guardian published <a href="http://www.theguardian.com/world/2015/jul/20/sarawak-report-whistleblowing-website-blocked-by-malaysia-over-pm-allegations" target="_blank">Sarawak Report whistleblowing website blocked by Malaysia after PM allegations</a> 
 
-> The Malaysian Communications and Multimedia Commission, the country's internet regulator, confirmed late on Sunday it had blocked Sarawak Report for reporting on what it called “unverified content". 
+> The Malaysian Communications and Multimedia Commission, the country's internet regulator, confirmed late on Sunday it had blocked Sarawak Report for reporting on what it called “unverified content".
 
 "Such content could create unrest and threatens national stability, public order and economic stability, the commission said in a statement.
 
+
 - - -
+
 
 ### 2013
 
