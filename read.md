@@ -51,7 +51,7 @@ permalink: /read/
 
 ### 2013
 
-- A Lowyat.net user posted a thread titled <a href="https://forum.lowyat.net/topic/2794929" target="_blank">YouTube Deep Packet Inspection, All HTTP connections being MITMed</a> &mdash; providing screenshots of his evidence of Deep Packet Inspection (DPI) [Man-in-the-middle attack]. He tests Youtube Content Delivery Network (CDN) on a particular video with a <a href="https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html" target="_blank">HTTP Get</a> request method. He finds missing packets in his test; comparing Local &amp; Remote. He did a test on the Democratic Action Party (DAP) Facebook's page using local a ISP. Found to be DPI/MITM
+- A Lowyat.net user posted a thread titled <a href="https://forum.lowyat.net/topic/2794929" target="_blank">YouTube Deep Packet Inspection, All HTTP connections being MITMed</a> &mdash; providing screenshots of his evidence of Deep Packet Inspection (DPI) [Man-in-the-middle attack]. He tests Youtube Content Delivery Network (CDN) on a particular video with a <a href="https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html" target="_blank">HTTP Get</a> request method. He finds missing packets in his test; comparing Local &amp; Remote. He did a test on the Democratic Action Party (DAP) Facebook's page through a local ISP connection. Found to be DPI/MITM
 
 - On the other hand, many users were indeed reporting that certain political-based videos does not load or either takes a gazillion years to load (exaggeration) on certain ISPs on Facebook and Twitter.
 
