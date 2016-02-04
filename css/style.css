@@ -5017,10 +5017,10 @@ a.badge:focus {
 }
 .um-msg-box{min-height: 20px;padding: 19px;margin-bottom: 20px;background-color: #fff;border-radius: 2px;}
 .um-pad{margin:15px 0;}
-.btn-tw{color:#fff;background-color:#55acee;}
-.btn-tw:hover{color:#fff;background-color:#55acee;}
-.btn-fb{color:#fff;background-color:#3b5998;}
-.btn-fb:hover{color:#fff;background-color:#3b5998;}
+.btn-tw{color:#fff;background-color:#55acee;border: 0;}
+.btn-tw:hover{color:#fff;background-color:#55acee;border: 0;}
+.btn-fb{color:#fff;background-color:#3b5998;border: 0;}
+.btn-fb:hover{color:#fff;background-color:#3b5998;border: 0;}
 
 .jumbotron {
   padding-top: 30px;
