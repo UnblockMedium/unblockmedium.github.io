@@ -8,7 +8,9 @@ permalink: /read/
 
 "A little learning is a dangerous thing" &mdash; Poem by Alexander Pope (1688 - 1744) 
 
+
 - - -
+
 
 - <a href="https://medium.com/medium-legal/the-post-stays-up-d222e34cb7e7" target="_blank">The Post Stays Up</a> written by Medium Legal team
 - <a href="http://www.themalaysianinsider.com/malaysia/article/mcmc-acts-against-errant-social-media-users" target="_blank">MCMC acts against errant social media users</a> via The Malaysian Insider
@@ -25,4 +27,24 @@ permalink: /read/
 - <a href="http://www.themalaymailonline.com/malaysia/article/mcmc-government-will-not-block-social-media-sites" target="_blank">MCMC: Government will not block</a> via The Malay Mail Online
 - Freedom of information laws by country: <a href="https://en.wikipedia.org/wiki/Freedom_of_information_laws_by_country#Malaysia" target="_blank">Malaysia</a> via Wikipedia 
 - Malaysian Internet activist wrote <a href="https://www.keithrozario.com/2016/01/no-the-prime-minister-doesnt-need-spyware.html" target="_blank">PMO purchases of Hacking Team software</a> on his blog. This is in regards to Malaysia and spyware, yes spyware!
+
+
+- - -
+
+
+### 2011  
+
+- The Malaysian Prime Minister Najib Razak speaking at the 1st Malaysian-ASEAN Regional Bloggers Conference, he said: 
+
+> "We do not fear bloggers. We want to be your partners" &mdash; PM Najib Razak
+
+- Featured on The Malaysian Insider <a href="http://www.themalaysianinsider.com/malaysia/article/najib-repeats-promise-of-no-internet-censorship/" target="_blank">Najib repeats promise of no Internet censorship</a> 
+
+- The Guardian published <a href="http://www.theguardian.com/world/2015/jul/20/sarawak-report-whistleblowing-website-blocked-by-malaysia-over-pm-allegations" target="_blank">Sarawak Report whistleblowing website blocked by Malaysia after PM allegations</a> 
+
+> The Malaysian Communications and Multimedia Commission, the country's internet regulator, confirmed late on Sunday it had blocked Sarawak Report for reporting on what it called “unverified content".
+
+"Such content could create unrest and threatens national stability, public order and economic stability, the commission said in a statement.
+
+
 
