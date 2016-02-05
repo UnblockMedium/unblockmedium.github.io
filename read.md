@@ -77,3 +77,9 @@ permalink: /read/
 - <a href="http://www.themalaymailonline.com/malaysia/article/mcmc-to-block-websites-promoting-spreading-info-on-bersih-4" target="_blank">MCMC to block websites promoting, spreading info on Bersih 4</a> just 2 days ahead of the highly-anticipated Bersih 4 rally in Malaysia and joined by Global Bersih movement worldwide
 
 - <a href="http://www.themalaymailonline.com/malaysia/article/mcmc-government-will-not-block-social-media-sites" target="_blank">MCMC: Government will not block social media sites</a> via The Malay Mail Online
+
+> For the period January to September this year, the Commission had blocked 1,263 websites, with 632 websites based on the application of local law enforcement agencies, while 631 websites were blocked for offences under Act 588 (Communications and Multimedia Act 1998).
+
+> In the meantime, from January to September this year, 1,368 complaints regarding the misuse of social media had been received.
+
+- - -
