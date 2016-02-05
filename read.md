@@ -51,9 +51,9 @@ permalink: /read/
 
 ### 2013
 
-- A Lowyat.net user posted a thread titled <a href="https://forum.lowyat.net/topic/2794929" target="_blank">YouTube Deep Packet Inspection, All HTTP connections being MITMed</a> &mdash; providing screenshots of his evidence of Deep Packet Inspection (DPI) [Man-in-the-middle attack]. He tests Youtube Content Delivery Network (CDN) on a particular video with a <a href="https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html" target="_blank">HTTP Get</a> request method. He finds missing packets in his test; comparing Local &amp; Remote. He did a test on the Democratic Action Party (DAP) Facebook's page through a local ISP connection. Found to be DPI/MITM
+- A Lowyat.net user posted a thread titled <a href="https://forum.lowyat.net/topic/2794929" target="_blank">YouTube Deep Packet Inspection, All HTTP connections being MITMed</a> &mdash; providing screenshots of his evidence of Deep Packet Inspection (DPI) [Man-in-the-middle attack]. He tests Youtube Content Delivery Network (CDN) on a particular video with a <a href="https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html" target="_blank">HTTP Get</a> request method. He finds missing packets in his test; comparing Local &amp; Remote. He did a test on the Democratic Action Party (DAP) Facebook's page through a local Internet Service Provider (ISP) connection. Found to be DPI/MITM, backed by a few other users who tested from their end
 
-- On the other hand, many users were indeed reporting that certain political-based videos does not load or either takes a gazillion years to load (exaggeration) on certain ISPs on Facebook and Twitter.
+- On the other hand, many users were indeed reporting that certain political-based videos did not load or either takes a gazillion years to load (exaggeration) when using certain Internet Service Providers (ISPs), they posted several social media
 
 - The Leader of Democratic Action Party (DAP) opposition party in Malaysia, Lim Kit Siang posted <a href="http://blog.limkitsiang.com/2013/05/18/dap-will-lodge-official-complaint-to-mcmc-of-violation-of-msc-guarantee-of-no-internet-censorship-since-dissolution-of-last-parliament-last-month-causing-blockade-to-several-dap-sit/" target="_blank">DAP will lodge official complaint to MCMC of violation of MSC Guarantee of "No Internet Censorship" since dissolution of last Parliament last month, causing blockade to several DAP sites</a> on his blog
 
@@ -63,9 +63,17 @@ permalink: /read/
 
 - Malaysian transparency NGO <a href="http://sinarproject.org/en" target="_blank">Sinar Project</a> did numerous investigation on the blocking and throttling access. They posted their <a href="https://plus.google.com/+SinarProjectOrg/posts/ak6opfbDxwa" target="_blank">report</a> and even released a tool on their <a href="https://github.com/Sinar/censortests" target="_blank">GitHub repo</a>
 
-- MCMC denied the claim, <a href="https://www.digitalnewsasia.com/sites/default/files/files_upload/140116%20MCMC%20Statement.pdf" target="_blank">Press Release</a>
+- MCMC denied the claim that such restriction was put in place, here is the <a href="https://www.digitalnewsasia.com/sites/default/files/files_upload/140116%20MCMC%20Statement.pdf" target="_blank">Press Release</a>
 
 - Digital News Asia covered this on <a href="https://www.digitalnewsasia.com/insights/the-kangkung-block-denial-seems-to-be-the-best-defence" target="_blank">The kangkung block: Denial seems to be the best defence</a>
 
+- Online News Portals were getting <a href="https://en.wikipedia.org/wiki/Denial-of-service_attack" target="_blank">Distributed Denial of Service (DDoS) attacks</a> on their web site / server. Malaysiakini &amp; The Malaysian Insider reported DDoS'ed 
 
 - - -
+
+
+### 2015
+
+- <a href="http://www.themalaymailonline.com/malaysia/article/mcmc-to-block-websites-promoting-spreading-info-on-bersih-4" target="_blank">MCMC to block websites promoting, spreading info on Bersih 4</a> just 2 days ahead of the highly-anticipated Bersih 4 rally in Malaysia and joined by Global Bersih movement worldwide
+
+- <a href="http://www.themalaymailonline.com/malaysia/article/mcmc-government-will-not-block-social-media-sites" target="_blank">MCMC: Government will not block social media sites</a> via The Malay Mail Online
