@@ -638,8 +638,8 @@ ul ul,
 ol ul,
 ul ol,
 ol ol {
-  margin-bottom: 0;
-  line-height: 20px;
+  margin-bottom: 25px;
+  line-height: 35px;
   list-style-type: circle;
 }
 .list-unstyled {
