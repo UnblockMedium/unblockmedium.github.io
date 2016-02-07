@@ -53,13 +53,13 @@ permalink: /read/
 
 - A Lowyat.net user posted a thread titled <a href="https://forum.lowyat.net/topic/2794929" target="_blank">YouTube Deep Packet Inspection, All HTTP connections being MITMed</a> &mdash; providing screenshots of his evidence of Deep Packet Inspection (DPI) [Man-in-the-middle attack]. He tests Youtube Content Delivery Network (CDN) on a particular video with a <a href="https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html" target="_blank">HTTP Get</a> request method. He finds missing packets in his test; comparing Local &amp; Remote. He did a test on the Democratic Action Party (DAP) Facebook's page through a local Internet Service Provider (ISP) connection. Found to be DPI/MITM, backed by a few other users who tested from their end
 
-- On the other hand, many users were indeed reporting that certain political-based videos did not load or either takes a gazillion years to load (exaggeration) when using certain Internet Service Providers (ISPs), they posted several social media
+- On the other hand, many users were indeed reporting that certain political-based videos did not load or either takes a gazillion years to load (exaggeration) when using certain Internet Service Providers (ISPs), as reported on several social media
 
 - The Leader of Democratic Action Party (DAP) opposition party in Malaysia, Lim Kit Siang posted <a href="http://blog.limkitsiang.com/2013/05/18/dap-will-lodge-official-complaint-to-mcmc-of-violation-of-msc-guarantee-of-no-internet-censorship-since-dissolution-of-last-parliament-last-month-causing-blockade-to-several-dap-sit/" target="_blank">DAP will lodge official complaint to MCMC of violation of MSC Guarantee of "No Internet Censorship" since dissolution of last Parliament last month, causing blockade to several DAP sites</a> on his blog
 
 - Keith Rozario, an local Activist wrote about this on his blog, titled <a href="https://www.keithrozario.com/2013/05/dap-blocked-sites-tm-bluecoat-packetshaper-arbor-network.html" target="_blank">DAP lodges report with MCMC over blocked sites</a>
 
-- When evidence was presented, MCMC denied. Digital News Asia did covered this <a href="https://www.digitalnewsasia.com/digital-economy/ge13-evidence-of-websites-political-content-being-throttled" target="_blank">GE13: Evidence of websites, political content being throttled</a> 
+- When evidence was presented, MCMC denied. Digital News Asia did cover this on their <a href="https://www.digitalnewsasia.com/digital-economy/ge13-evidence-of-websites-political-content-being-throttled" target="_blank">GE13: Evidence of websites, political content being throttled</a> article
 
 - Malaysian transparency NGO <a href="http://sinarproject.org/en" target="_blank">Sinar Project</a> did numerous investigation on the blocking and throttling access. They posted their <a href="https://plus.google.com/+SinarProjectOrg/posts/ak6opfbDxwa" target="_blank">report</a> and even released a tool on their <a href="https://github.com/Sinar/censortests" target="_blank">GitHub repo</a>
 
