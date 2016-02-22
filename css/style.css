@@ -4214,7 +4214,7 @@ a.badge:focus {
   padding-bottom: 50px;
   padding-top: 50px;
   color: #696969;
-  background-color: #fafafa;
+  background-color: #000;
   border-radius: 0;
 }
 .um-footer p {
@@ -4222,7 +4222,7 @@ a.badge:focus {
   letter-spacing: 1px;
   text-transform: uppercase;
 }
-.um-msg-box{min-height: 20px;padding: 19px;margin-bottom: 20px;background-color: #fff;border-radius: 2px;}
+.um-msg-box{min-height: 20px;padding: 19px;margin-bottom: 20px;background-color: #111;border-radius: 2px;}
 .um-pad{margin:15px 0;}
 .btn-tw{color:#fff;background-color:#55acee;border: 0;}
 .btn-tw:hover{color:#fff;background-color:#55acee;border: 0;}
