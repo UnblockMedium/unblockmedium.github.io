@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Worth the Read
+title: Read
 permalink: /read/
 ---
 
