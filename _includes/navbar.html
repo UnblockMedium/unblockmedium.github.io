@@ -22,6 +22,9 @@
 				{% endfor %}
 				{% if site.twitter_handle %}
 				<li>
+					<a href="https://www.change.org/p/malaysian-communications-and-multimedia-commission-unblock-medium-com-in-malaysia" target="_blank">Sign Petition</a>
+				</li>
+				<li>
 					<a href="//twitter.com/{{ site.twitter_handle }}" target="_blank">Twitter</a>
 				</li>
 				{% endif %}
@@ -31,7 +34,7 @@
 				</li>
 				{% endif %}
 				<li class="dropdown">
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Reports by Date <span class="caret"></span></a>
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Archive <span class="caret"></span></a>
 					<ul class="um-scroll-menu dropdown-menu">
 					{% for post in site.posts %}
 						<li><a href="{{ post.url }}">{{ post.title }} &middot; {{ post.date | date: "%B %e %Y" }}</a></li>
