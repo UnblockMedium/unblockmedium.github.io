@@ -4230,7 +4230,7 @@ a.badge:focus {
 .btn-fb:hover{color:#fff;background-color:#3b5998;border: 0;}
 
 .jumbotron {
-  padding-top: 230px;
+  padding-top: 30vh;
   height: 100vh;
   color: inherit;
   background-image: url(../img/bg.jpg);
