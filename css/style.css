@@ -4228,6 +4228,8 @@ a.badge:focus {
 .btn-tw:hover{color:#fff;background-color:#55acee;border: 0;}
 .btn-fb{color:#fff;background-color:#3b5998;border: 0;}
 .btn-fb:hover{color:#fff;background-color:#3b5998;border: 0;}
+.um-footer a{color:#ddd;}
+.um-footer a:hover{color:#fff;}
 
 .jumbotron {
   padding-top: 30vh;
