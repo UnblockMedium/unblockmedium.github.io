@@ -2653,10 +2653,13 @@ fieldset[disabled] .btn-link:focus {
 }
 .btn-xl,
 .btn-group-xl > .btn {
-    padding: 20px 25px;
-    font-size: 16px;
-    line-height: 1.3333333;
-    border-radius: 2px;
+  padding: 16px 28px;
+  font-size: 17px;
+  line-height: 1.3333333;
+  border-radius: 2px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
 }
 .btn-lg,
 .btn-group-lg > .btn {
@@ -4227,10 +4230,11 @@ a.badge:focus {
 .btn-fb:hover{color:#fff;background-color:#3b5998;border: 0;}
 
 .jumbotron {
-  padding-top: 100px;
+  padding-top: 230px;
   height: 100vh;
   color: inherit;
-  background-color: #000;
+  background-image: url(../img/bg.jpg);
+  background-size: cover;
 }
 .jumbotron h1,
 .jumbotron .h1 {
