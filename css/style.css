@@ -4236,6 +4236,7 @@ a.badge:focus {
   height: 100vh;
   width: auto;
   color: inherit;
+  background-color:#000;
   background-image: url(../img/bg.jpg);
   background-size: cover;
   background-position: center center;
