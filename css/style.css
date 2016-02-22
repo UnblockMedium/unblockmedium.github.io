@@ -4224,10 +4224,10 @@ a.badge:focus {
 .btn-fb:hover{color:#fff;background-color:#3b5998;border: 0;}
 
 .jumbotron {
-  padding-top: 30px;
-  margin-bottom: 30px;
+  padding-top: 100px;
+  height: 100vh;
   color: inherit;
-  background-color: transparent;
+  background-color: #000;
 }
 .jumbotron h1,
 .jumbotron .h1 {
