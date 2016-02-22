@@ -2653,8 +2653,8 @@ fieldset[disabled] .btn-link:focus {
 }
 .btn-xl,
 .btn-group-xl > .btn {
-  padding: 16px 28px;
-  font-size: 17px;
+  padding: 15px 25px;
+  font-size: 15px;
   line-height: 1.3333333;
   border-radius: 2px;
   letter-spacing: 1px;
