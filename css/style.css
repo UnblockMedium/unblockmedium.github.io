@@ -4182,7 +4182,7 @@ a.badge:focus {
 .nav-pills > li > a > .badge {
   margin-left: 3px;
 }
-/* Scrollbar */
+/* Scrollbar 
 ::-webkit-scrollbar {
   -webkit-appearance:none;
   width:12px;
@@ -4201,7 +4201,7 @@ a.badge:focus {
 }
 ::-webkit-scrollbar-corner {
   background-color:#e6e6e6;
-}
+}*/
 .um-scroll-menu {
   height: auto;
   max-height: 415px;
