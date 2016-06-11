@@ -11,11 +11,12 @@ paginate: 15
 markdown: Kramdown
 highlighter: rouge
 encoding: UTF-8
+exclude: [README.md]
 
 # Permalinks
 permalink: pretty
 
-# Navigator 
+# Navigator
 navigation:
  - title: Home
    url: /
@@ -23,17 +24,17 @@ navigation:
    url: /about/
  - title: Worth the Read
    url: /read/
-   
+
 # Social
 twitter_handle: UnblockMedium
-facebook_community: UnblockMedium     
+facebook_community: UnblockMedium
 
 # Precious Gems
 gems:
   - jekyll-sitemap
-  
+
 author:
   name: 'UnblockMedium'
   url: https://unblockmedium.com
-  
+
 version: 1.0.0
